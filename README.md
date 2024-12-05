@@ -16,6 +16,7 @@ Columns: 22 (All variables are FLOAT type; no missing values).
 
 **Features:**
 Target Variable: Diabetes_binary (1 for diabetic, 0 for non-diabetic).
+
 Other  Variables: BMI, Age, HighBP, HighChol, PhysActivity, GenHlth, MentHlth, Smoker,	CholCheck, Stroke,	HeartDiseaseorAttack, Fruits, Veggies,	HvyAlcoholConsump, AnyHealthcare, NoDocbcCost, PhysHlth,	DiffWalk,	Sex, Education,	Income
 
 **Importance of SQL in Health Data Analysis**
